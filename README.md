@@ -1,2 +1,2 @@
 # TIA_project
-FIXME: Identifies an image as either a _____ or _____ using machine learning.
+Identifies an image as either a cat or dog using machine learning.
