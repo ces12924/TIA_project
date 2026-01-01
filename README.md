@@ -1,45 +1,27 @@
-# TIA_project
-Cat vs Dog Image Classifier 🐱🐶
-Overview
+# Cat vs Dog Image Classifier 🐱🐶
+ **In Progress**
 
-This project is a work-in-progress neural network that classifies images as either cats or dogs. It uses a labeled Kaggle dataset, preprocesses the images, and trains an image classifier for binary classification.
+## Overview
+This project is a **work-in-progress neural network** that classifies images as either **cats or dogs**. It uses a labeled **Kaggle dataset**, preprocesses the images, and trains an image classifier for binary classification.
 
-Status
+## Dataset
+- Source: Kaggle Cats vs Dogs dataset  
+- Images are resized and normalized before training  
+- Dataset is not included in this repository
 
-🚧 In Progress
+## Method
+- Load and preprocess image data  
+- Train a neural network on processed images  
+- Evaluate classification performance
 
-Dataset
+## Tech Stack
+- Python  
+- TensorFlow / PyTorch *(update as needed)*  
+- NumPy  
+- OpenCV / PIL *(if applicable)*  
 
-Source: Kaggle Cats vs Dogs dataset
-
-Images are resized and normalized before training
-
-Dataset is not included in this repository
-
-Method
-
-Load and preprocess image data
-
-Train a neural network on processed images
-
-Evaluate classification performance
-
-Tech Stack
-
-Python
-
-TensorFlow / PyTorch (update as needed)
-
-NumPy
-
-OpenCV / PIL (if applicable)
-
-Planned Improvements
-
-Data augmentation
-
-Hyperparameter tuning
-
-Model evaluation and saving
-
-Inference on new images
+## Planned Improvements
+- Data augmentation  
+- Hyperparameter tuning  
+- Model evaluation and saving  
+- Inference on new images  
