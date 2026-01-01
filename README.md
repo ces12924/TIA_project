@@ -16,9 +16,8 @@ This project is a **work-in-progress neural network** that classifies images as 
 
 ## Tech Stack
 - Python  
-- TensorFlow / PyTorch *(update as needed)*  
+- TensorFlow
 - NumPy  
-- OpenCV / PIL *(if applicable)*  
 
 ## Planned Improvements
 - Data augmentation  
